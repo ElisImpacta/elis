@@ -6,7 +6,9 @@ meu nome é o nome do repositório, simples.
 ######Nome de três atores/atrizes######
 
 1 - Tom Hanks
-2 - Leisha Hailey
+2 - Leisha Hailey @@
 3 - Emma Watson
 
 *****************Segunda coisa que escrevi e dei commit 26/09*****************
+
+Alterar no final ( item 5 do exercício)
